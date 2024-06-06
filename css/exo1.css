@@ -1,0 +1,19 @@
+header{
+    background-color: blueviolet;
+    padding-top: 10px;
+    color: blueviolet;
+}
+nav a{
+    align-content: flex-start;
+    text-decoration: none;
+    display: flex;
+    color: white;
+    background-color: aqua;
+    margin-top: 3px;
+    width: 250px;
+}
+.boite{
+    background-color: brown;
+    display: flex;
+    align-content: flex-start;
+}
